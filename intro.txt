@@ -29,6 +29,7 @@
 
 - SoftICE (1987 - 2007 RIP)
 - Ollydbg (2000 - 2013 RIP)
+- WinDBG
 - x64dbg
 - gdb
 
@@ -37,7 +38,7 @@
 - Ghidra
 
 - PEiD
-- Import Rec
+- Imports Rec
 - Scylla
 
 6) On commence ?
