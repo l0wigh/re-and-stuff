@@ -1,0 +1,59 @@
+1) C'est quoi le reverse ?
+
+- Binaires
+- Code Source
+- Protocol
+- ...
+
+2) Les Types d'analyses
+
+- Dynamique
+- Statique
+
+3) Les Outils
+
+- Debuggeurs
+- Desassembleurs
+- Decompilateurs
+- ...
+
+4) Ce qu'on peux faire en Reverse
+
+- Patching
+- Serial Fishing
+- Unpacking
+- Keygenning
+- ...
+
+5) On veux des noms !
+
+- SoftICE (1987 - 2007 RIP)
+- Ollydbg (2000 - 2013 RIP)
+- x64dbg
+- gdb
+
+- IDA Pro
+- radare2
+- Ghidra
+
+- PEiD
+- Import Rec
+- Scylla
+
+6) On commence ?
+
+- PUSH
+- POP
+- MOV
+- JMP
+- JE / JNE / JZ / JNZ
+- CMP
+- RET
+
+- Les Flags
+
+- EAX / RAX | BPX / RPX ...
+
+7) Exemple 1 (debuggeur)
+
+8) Exemple 2 (ghidra)
